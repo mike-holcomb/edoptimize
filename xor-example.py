@@ -1,3 +1,7 @@
+'''
+Mike Holcomb
+Example of training network with one layer MLP on XOR function
+'''
 import numpy as np
 from scipy.special import expit
 

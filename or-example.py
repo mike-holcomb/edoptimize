@@ -1,3 +1,7 @@
+'''
+Mike Holcomb
+Example of training perceptron on the OR function
+'''
 import numpy as np
 from scipy.special import expit
 

@@ -1,3 +1,7 @@
+'''
+Mike Holcomb
+Example of training network with one layer MLP on Iris data set
+'''
 import numpy as np
 import pandas as pd
 from scipy.special import expit
